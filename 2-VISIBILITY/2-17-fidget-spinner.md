@@ -2,7 +2,7 @@
 
 2021/03/24
 
-![Target](https://cssbattle.dev/targets/16.png)
+![Target](https://cssbattle.dev/targets/17.png)
 
 ## 100% - 173 / 150
 
